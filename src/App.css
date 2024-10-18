@@ -1,0 +1,175 @@
+.bg-light {
+  background-color: #1d561461 !important;
+  border-radius: 30px;
+  height: 80px;
+  width: 95vw;
+  background-image: linear-gradient(180deg, #57a2b8, #6b9977);
+  font-size: 15px;
+  box-shadow: 0px 8px 10px 4px #9cbaa0;
+  top: 0px !important;
+  position: sticky;
+}
+.navbar-light .navbar-nav .nav-link {
+  color: rgb(255 255 255);
+}
+.navbar-expand-lg .navbar-collapse {
+  display: flex !important;
+  flex-basis: auto;
+  margin-left: 5%;
+}
+
+.navbar-brand {
+  padding-left: 20px;
+}
+
+.Bgimage {
+  background-image: url("./image.jpg");
+}
+.main-content {
+  display: flex;
+  color: #fff;
+  justify-content: space-between;
+  padding: 2em;
+  height: 649px;
+}
+
+.hero-section {
+  flex: 3;
+  font-family: cursive;
+  text-align: center;
+}
+
+.hero-image {
+  width: 100%;
+
+  max-width: 600px;
+}
+
+.info-box {
+  flex: 1;
+  margin-left: 20px;
+  padding: 1em;
+  background: rgb(38, 122, 143);
+  background: linear-gradient(
+    0deg,
+    rgba(38, 122, 143, 1) 15%,
+    rgba(53, 210, 167, 1) 64%
+  );
+
+  border-radius: 8px;
+  margin-right: 200px;
+  height: 480px;
+  width: 300px;
+}
+
+.connect-us {
+  margin-top: 1em;
+}
+
+.login-button {
+  display: block;
+
+  margin-top: 0.5em;
+  width: 40%;
+  text-align: center;
+
+  text-decoration: none;
+
+  color: black;
+
+  background-color: antiquewhite;
+
+  padding: 0.5em;
+
+  border-radius: 15px;
+}
+
+.bg {
+  background: rgb(34, 189, 195);
+  background: linear-gradient(
+    0deg,
+    rgba(34, 189, 195, 1) 0%,
+    rgba(163, 160, 107, 1) 87%,
+    rgba(253, 174, 45, 1) 100%
+  );
+  width: 35% !important;
+  border-radius: 30px;
+}
+
+.color {
+  color: #1c5d07;
+}
+
+.title {
+  color: white;
+}
+
+.btn-color {
+  background-color: #1c5d07 !important;
+  border-radius: 15px !important;
+  margin-bottom: 10px;
+}
+
+.code {
+  width: 60px !important;
+}
+
+.dis {
+  display: flex;
+}
+
+.cover {
+  background-color: hsl(161.25deg 22.22% 85.88%);
+  border-radius: 10px;
+  /* height: max-content; */
+}
+
+.container p {
+  color: #1c5d07;
+  font-weight: bold;
+}
+
+.link {
+  margin-right: 890px;
+}
+
+.cadiv {
+  margin: 20px 250px 50px 250px;
+  background-color: hsl(161.25deg 22.22% 85.88%);
+
+  height: 500px;
+  border-radius: 50px;
+}
+
+.ftcon {
+  background-color: transparent;
+  height: 500px;
+  width: 500px;
+  margin-left: 100px;
+}
+
+.form-group {
+  font-weight: bold !important;
+  color: #1c5d07 !important;
+}
+.max-height {
+  height: max-content;
+}
+
+.footer {
+  background-color: #1d561461 !important;
+  border-radius: 30px;
+  height: 80px;
+  width: 95vw;
+  background-image: linear-gradient(180deg, #57a2b8, #6b9977);
+  font-size: 15px;
+  box-shadow: 0px 8px 10px 4px #9cbaa0;
+  top: 0px !important;
+  position: relative;
+  bottom: 0;
+  padding: 27px 18px;
+}
+
+.card {
+  bottom: 10px;
+}
